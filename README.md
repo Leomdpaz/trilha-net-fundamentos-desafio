@@ -1,4 +1,14 @@
-# DIO - Trilha .NET - Fundamentos
+<h1 align="center">DIO - Trilha .NET - Fundamentos</h1>
+
+<h1 align="center">RESOLVIDO ✔</h1> 
+Projeto desenvolvido junto à <strong><a href="https://github.com/digitalinnovationone">@digitalinnovationone</a></strong> na <em>Trilha .NET</em> durante o Bootcamp Decola Tech Avanade.
+
+   O  objetivo é simular um <strong><em>APP</em></strong> de estacionamento de veículos. Sendo possível cadastrar a placa, listar os cadastrados, emitir o valor do estacionamento baseado no preço da hora e do tempo decorrido entre outras coisas.
+<hr>
+
+
+<h1 align="center">Apresentação do desafio 👨‍💻</h1> 
+
 www.dio.me
 
 ## Desafio de projeto
@@ -36,3 +46,5 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+<h1 align="center">Código completo ✔</h1>
